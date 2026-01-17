@@ -1,0 +1,64 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+
+
+body{
+    font-family: "Acme", sans-serif;
+    letter-spacing: 2px;
+    text-align: center;
+}
+ 
+p{
+    color: white;
+}
+
+h4{
+    color: white;
+    padding-bottom: 2rem;
+}
+
+h3{
+    padding-top: 3rem;
+    color: rgb(100, 118, 139);
+}
+
+#text{
+    text-shadow: 3px 3px 10px rgb(114, 235, 253);
+    color: white;
+    padding-bottom: 1rem;
+    padding-top:  4rem;
+    text-align: center;
+}
+
+ .jumbotron{
+    padding-top: 2rem;
+    padding-bottom: 6rem;
+ }
+
+
+ #dr{
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+}
+
+ #so{
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-bottom: 9rem;
+    padding-top: 2rem;
+ }
+
+h5{
+    text-align: center;
+}
+
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+  
